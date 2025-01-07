@@ -1,4 +1,4 @@
-# face-recognition attendance System.
+# face-recognition attendance based System.
 
 •	Developed an automated attendance system leveraging face recognition technology to record attendance in real-time.
 •	Face Recognition: Utilized InsightFace (a deep learning-based face recognition library) for accurate identification of individuals from camera feeds.
